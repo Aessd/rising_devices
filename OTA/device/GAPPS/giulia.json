@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Aessd",
+			"oem": "OnePlus",
+			"device": "giulia",
+			"filename": "RisingOS_Revived-8.0-250807-1340-GAPPS-COMMUNITY-giulia-ota.zip",
+			"download": "https://dl.wzwzx.cn/d/aessd/OnePlus/OTA/RIsingOS/Ace5%20(giulia)/RisingOS_Revived-8.0-250807-1340-GAPPS-COMMUNITY-giulia-ota.zip?sign=RQphHlKwG4vCw6vPJTXEZBqqVXpoEZLLOvpcphCv04c=:0",
+			"timestamp": 1754545229,
+			"md5": "32c1ebfa30c66b650ec9d7059ddd6a0c",
+			"sha256": "99e05eb315d40f390911aee26797ac28ae6a85274cb3778b6baefd0bbfbb0227",
+			"size": 3731724427,
+			"version": "8.0-Zorya",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "https://shp.qpic.cn/collector/3037667679/d4462e1e-b7d5-4530-9a7b-a3bb63c92ad2/0",
+			"telegram": ""
+		}
+	]
+}
