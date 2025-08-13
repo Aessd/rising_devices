@@ -1,1 +1,12 @@
-- Synced with RisingOS Revived 8.0 (Zorya)
+Changelog
+=========
+
+13/08/2025
+---------------
+- Update Android Security Patch to 2025-08
+- Update Vendor Security Patch to 2025-07
+- Synced with latest Source Changes
+
+08/08/2025
+---------------
+- Initial Android 16 release
