@@ -1,6 +1,10 @@
 Changelog
 =========
 
+24/08/2025
+- Welcome to RisingOS Revived 8.1
+- source updates
+
 14/08/2025
 - Add support for fingerprint pay
 - Fixed miscellaneous stability issues
